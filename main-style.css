@@ -1,0 +1,43 @@
+table.center {
+margin-left: auto;
+margin-right: auto;
+}
+
+.expanding {
+  transition: width 0.3s ease-in-out;
+  -webkit-transition: width 0.3s ease-in-out;
+  width: 120px;
+  height: 220px;
+  background-color: navajowhite;
+  margin-left: 5px;
+  display: inline-block;
+}
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+
+}
+
+.active, .collapsible:hover {
+  background-color: rgb(73, 154, 156);
+}
+
+.barColor {
+  padding: 0 18px;
+  display: inline-block;
+  margin-left: 5px;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+.barColors{
+  display: inline-block;
+  margin-left: 5px;
+}
+

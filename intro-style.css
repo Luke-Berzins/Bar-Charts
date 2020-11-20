@@ -1,0 +1,48 @@
+#logo {
+  width: 20px;
+  height:20px;
+  background-color: mediumslateblue;
+  position: absolute;
+  left: 390px;
+  top: 120px;
+
+}
+#logo1 {
+  width: 20px;
+  height:24px;
+  background-color: lightgreen;
+  position: absolute;
+  left: 414px;
+  top: 116px;
+
+}
+#logo2 {
+  width: 20px;
+  height:32px;
+  background-color: violet;
+  position: absolute;
+  left: 438px;
+  top: 108px;
+
+
+}
+#logo3 {
+  width: 20px;
+  height:44px;
+  background-color: lightcoral;
+  position: absolute;
+  left: 462px;
+  top: 96px;
+
+
+}
+#logo4 {
+  width: 20px;
+  height: 58px;
+  background-color: darkslateblue;
+  position: absolute;
+  left: 486px;
+  top: 82px;
+
+
+}
